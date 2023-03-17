@@ -2,43 +2,45 @@
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html, html[data-theme="light"], body.light {
-    --bg-main: #FFFFFF;
-    --bg-sub: #FAFAFC;
-    --color-bis: #363636;
-    --text-main: #18181C;
-    --text-sub: #5D5D67;
-    --link: #2380ED;
-    --border: #E5E5E5;
+    --bg-main: #fffaf3;
+    --bg-sub: #faf4ed;
+    --color-bis: #575279;
+    --text-main: #575279;
+    --text-sub: #797593;
+    --link: #ea9d34;
+    --border: #f2e9e1;
 }
 
 html[data-theme="dark"], body.dark {
-    --bg-main: #18181C;
-    --bg-sub: #262626;
-    --color-bis: #E6E6E6;
-    --text-main: #FAFAFC;
-    --text-sub: #FFFFFF;
-    --link: #6D9EFF;
-    --border: #353535;
+    --bg-main: #1f1d2e;
+    --bg-sub: #191724;
+    --color-bis: #e0def4;
+    --text-main: #908caa;
+    --text-sub: #6e6a86;
+    --link: #f6c177;
+    --border: #26233a;
 }
 
 
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"], body.dark {
-        --bg-main: #18181C;
-        --bg-sub: #262626;
-        --text-main: #FAFAFC;
-        --text-sub: #FFFFFF;
-        --link: #6D9EFF;
-        --border: #353535;
+    --bg-main: #1f1d2e;
+    --bg-sub: #191724;
+    --color-bis: #e0def4;
+    --text-main: #908caa;
+    --text-sub: #6e6a86;
+    --link: #f6c177;
+    --border: #26233a;
     }
 
     html[data-theme="light"], body.light {
-	    --bg-main: #FFFFFF;
-        --bg-sub: #FAFAFC;
-        --text-main: #18181C;
-        --text-sub: #5D5D67;
-        --link: #2380ED;
-        --border: #E5E5E5;
+        --bg-main: #fffaf3;
+        --bg-sub: #faf4ed;
+        --color-bis: #575279;
+        --text-main: #575279;
+        --text-sub: #797593;
+        --link: #ea9d34;
+        --border: #f2e9e1;
   } 
 }
 
@@ -217,7 +219,7 @@ h6 {
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
 p a,
@@ -259,7 +261,7 @@ img {
 
 
 code {
-    font-family: Consolas, 'Courier New', Courier, monospace;
+    font-family: 'Fira Code', monospace;
     display: inline-block;
     overflow: auto !important;
     white-space: pre-line !important;       
@@ -287,7 +289,7 @@ code {
 
 
 pre code {
-    font-family: Consolas, 'Courier New', Courier, monospace;
+    font-family: 'Fira Code', monospace;
     display: inline-block;
     overflow: auto !important;
     white-space: pre-line !important;       
