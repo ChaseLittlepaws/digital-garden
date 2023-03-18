@@ -43,7 +43,7 @@ export default function NoteList({ notes }) {
               : 'No Tags'}
           </p> : null }
           <p className="note-date">
-            Published on {moment(new Date(data.node.fields.date)).fromNow()}
+            Published {moment(new Date(data.node.fields.date)).fromNow()}
           </p>
         </div>
       ))}

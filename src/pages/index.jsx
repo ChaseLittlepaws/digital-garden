@@ -83,7 +83,7 @@ export default function Home() {
         </div>
 
         <br />
-        <Link to="/sitemap">All Notes...</Link>
+        <Link to="/site-map">All Notes...</Link>
       </div>
     </Layout>
   )
