@@ -1,9 +1,8 @@
 import React from 'react'
-import { graphql, Link, navigate } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import { MDXRenderer } from 'gatsby-plugin-mdx'
 import { MDXProvider } from "@mdx-js/react"
 // import { Graph } from 'react-d3-graph'
-import Graph from "react-graph-vis";
 import Tooltip from '../components/tooltip'
 import Layout from '../layout/layout'
 import '../styles/note.css'
@@ -42,44 +41,6 @@ export default function Note({ pageContext, data }) {
     const refNoteTitle = pageContext.refersTo[i]
     if(!nodeExists(refNoteTitle)) graph.nodes.push({ id: makeId(refNoteTitle), label: refNoteTitle })
     graph.edges.push({ from: makeId(post.fields.title), to: makeId(refNoteTitle) })
-  }
-
-  const options = {
-    nodes: {
-      shape: "dot",
-      size: 8,
-      font: {
-        color: "#aaa",
-      },
-      color: {
-        border: "#aaa",
-        background: "#aaa",
-        highlight: {
-          border: "#ddd",
-          background: "#999",
-        }
-      }
-    },
-    edges: {
-      color: {
-        border: "#aaa"
-      },
-      arrows: "middle",
-    },
-    layout: {
-      hierarchical: {
-        enabled: true
-      }
-    }
-  }
-
-  const events = {
-    select: function(event) {
-      var { nodes } = event
-      const id = nodes[0].toLowerCase();
-      const node = pageContext.linkedNotes[id]
-      navigate(`${node.slug}`)
-    }
   }
 
   const TooltipLink = (props) => {
@@ -192,14 +153,6 @@ export default function Note({ pageContext, data }) {
                   </div>
                 </div>
               </div>
-            </div>
-
-            <div className="note-graph">
-              <Graph
-                graph={graph}
-                options={options}
-                events={events}
-              />
             </div>
           </div>
         </main>
