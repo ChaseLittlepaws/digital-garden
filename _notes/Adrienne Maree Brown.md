@@ -1,10 +1,10 @@
 ---
 date: 2023-03-16
-date modified: 2023-03-17
+date modified: 2023-03-18
 tags:
 - Thinkers
 - Activism
-- Feminisnm
+- Feminism
 - Speculative Fiction
 reviewed: 2023-03-18
 review-frequency: normal

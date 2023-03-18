@@ -7,7 +7,7 @@ export const DefaultMenuStructure = (menuType = 'main') => {
   const defaultStructure = [
     // Default Menu.
     { type: 'page', item: '', title: 'Home' },
-    { type: 'page', item: 'sitemap' },
+    { type: 'note', item: 'site-map' },
     { type: 'page', item: 'tags' },
   ]
   let structure = null
