@@ -32,7 +32,7 @@ Welcome to my [[Digital Gardens|digital garden]] blog! Here you'll find every no
 [[Raven Kaldera & Joshua Tenpenny]]  
 [[Sandra Yancy Mcguire]]  
 [[Scott Young]]  
-[[Sönke Ahrens]]
+[[Sönke Ahrens]]  
 [[Staci Haines]]  
 [[Tiago Forte]]
 
@@ -77,7 +77,7 @@ Welcome to my [[Digital Gardens|digital garden]] blog! Here you'll find every no
 [[Maslow's Hierarchy of Needs]]  
 [[Mere-exposure Effect]]  
 [[Mindfulness]]  
-[[No Writing Starts from Scratch.]]
+[[No Writing Starts from Scratch.]]  
 [[One Ought to Be Intentional with Their Use of Technology.]]  
 [[People Are More Than Their Diagnosis.]]  
 [[Project-based Learning]]  
