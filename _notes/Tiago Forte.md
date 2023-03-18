@@ -2,6 +2,8 @@
 date: 2023-03-16
 date modified: 2023-03-17
 category: Thinker
+reviewed: 2023-03-18
+review-frequency: normal
 ---
 > Tiago Forte is one of the world’s foremost experts on productivity. He has taught more than 20,000 people worldwide through his programs and [writes](https://fortelabs.com/blog) and speaks on how technology can help knowledge workers revolutionize their personal effectiveness.
 > 

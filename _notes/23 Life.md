@@ -3,7 +3,7 @@ date: 2023-03-18
 date modified: 2023-03-18
 slug: site-map
 ---
-Welcome to my [[Digital Gardens|digital garden]] blog! 
+Welcome to my [[Digital Gardens|digital garden]] blog! Here you'll find every note in my digital garden in categories. Feel free to roam as you wish.
 
 ## Thinkers
 [[Abraham Maslow]]  
@@ -32,6 +32,7 @@ Welcome to my [[Digital Gardens|digital garden]] blog!
 [[Raven Kaldera & Joshua Tenpenny]]  
 [[Sandra Yancy Mcguire]]  
 [[Scott Young]]  
+[[Sönke Ahrens]]
 [[Staci Haines]]  
 [[Tiago Forte]]
 
@@ -74,14 +75,18 @@ Welcome to my [[Digital Gardens|digital garden]] blog!
 [[Humans Don't Work like Computer Processors]]  
 [[Learning in Public]]  
 [[Maslow's Hierarchy of Needs]]  
+[[Mere-exposure Effect]]  
 [[Mindfulness]]  
+[[No Writing Starts from Scratch.]]
 [[One Ought to Be Intentional with Their Use of Technology.]]  
 [[People Are More Than Their Diagnosis.]]  
 [[Project-based Learning]]  
 [[Self-actualization]]  
 [[Signal Versus Noise]]  
 [[Slow Productivity Vs Fast Productivity]]  
-[[Sweat Equity]]
+[[Spaced Repeition]]  
+[[Sweat Equity]]  
+[[Writing Is Thinking.]]
 
 ## Meta
 [[Meta - Thinkers]]  
