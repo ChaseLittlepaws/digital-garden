@@ -1,7 +1,12 @@
 ---
 date: 2023-03-16
 date modified: 2023-03-17
-category: Learning
+tags: 
+ - Ideas
+ - Learning
+ - Psychology
+reviewed: 2023-03-18
+review-frequency: normal
 ---
 > Bloom's taxonomy is a set of three hierarchical models used for classification of educational learning objectives into levels of complexity and specificity. The three lists cover the learning objectives in cognitive, affective and psychomotor domains. The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.
 >
