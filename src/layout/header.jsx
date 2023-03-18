@@ -12,7 +12,6 @@ import {
   MenuItemTag,
   MenuItemExternalLink,
 } from '../utils/menu-structure'
-import favicon from '../../public/img/favicon.png';
 
 import DarkMode from '../components/dark-mode'
 
@@ -81,7 +80,7 @@ export default function Header({ title, type, description }) {
       >
         <div className="navbar-brand">
           <Link className="navbar-item" to="/">
-          <img src={favicon} style={{margin:10}}/>
+          <img src={'/img/favicon.png'} style={{margin:10}} alt=""/>
             <h4>{siteConfig.siteMetadata.title || 'Gatsby Garden'}</h4>
           </Link>
           <div className="navbar-item navbar-dark-mode__mobile is-hidden-tablet">
