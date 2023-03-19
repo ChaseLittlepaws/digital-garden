@@ -1,9 +1,14 @@
 ---
 date: 2023-03-18
-date modified: 2023-03-18
+date modified: 2023-03-19
 slug: site-map
 ---
 Welcome to my [[Digital Gardens|digital garden]] blog! Here you'll find every note in my digital garden in categories. Feel free to roam as you wish.
+
+## Meta
+[[Meta - Thinkers|Thinkers]]  
+[[Meta - Paradigms|Paradigms]]  
+[[Meta - Ideas|Ideas]]
 
 ## Thinkers
 [[Abraham Maslow]]  
@@ -86,9 +91,4 @@ Welcome to my [[Digital Gardens|digital garden]] blog! Here you'll find every no
 [[Slow Productivity Vs Fast Productivity]]  
 [[Spaced Repeition]]  
 [[Sweat Equity]]  
-[[Writing Is Thinking.]]
-
-## Meta
-[[Meta - Thinkers]]  
-[[Meta - Paradigms]]  
-[[Meta - Ideas]]
+[[Writing Is Thinking.]]  
