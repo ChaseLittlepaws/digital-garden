@@ -13,11 +13,11 @@ This includes questions related to learning, productivity, success, emotional we
 - How can individuals and communities develop and sustain effective strategies for self-care and self-compassion, and what are some effective ways to build resilience and prevent burnout in personal and professional contexts?
 -  How can individuals and communities use art and creativity to promote healing and self-expression, and what are some effective ways to incorporate creative practices into personal and community-based work?
 - How can individuals and communities use movement and embodiment practices to promote healing and resilience, and what are some effective ways to incorporate movement into daily life?
-- What are some effective strategies for individuals to develop emotional intelligence, self-awareness, and empathy in order to enhance personal and relational growth within the context of ethical non-monogamous relationships and sexual expression?
-- What are some effective strategies for individuals and couples to address jealousy, insecurity, and other emotional challenges that may arise in ethical non-monogamous relationships?
+- What are some effective strategies for individuals to develop emotional intelligence, self-awareness, and empathy in order to enhance personal and relational growth within the context of ethically non-monogamous relationships and sexual expression?
+- What are some effective strategies for individuals and couples to address jealousy, insecurity, and other emotional challenges that may arise in ethically non-monogamous relationships?
 - In what ways can individuals optimize their use of available resources? How can effective note-taking and information management strategies be developed?
 - What are the characteristics of success? What actions can individuals take to achieve success?
-- How do an individual's fundamental beliefs influence their life? What strategies can be employed to modify these beliefs when necessary?
+- How do an individual's core beliefs influence their life? What strategies can be employed to modify these beliefs when necessary?
 
 ## Bias & Critical Thinking
 This includes questions related to identifying and addressing bias and developing critical thinking skills.
@@ -25,7 +25,7 @@ This includes questions related to identifying and addressing bias and developin
 - How can critical thinking skills be developed and applied in everyday life to improve decision-making and problem-solving?
 
 ## Christian Faith & Values
-This includes questions related to navigating the intersection of Christian beliefs and practices with various aspects of life, such as mental health, ethical non-monogamy, social justice, and emerging technologies.
+This includes questions related to navigating the intersection of Christian beliefs and practices with various aspects of life, such as mental health, ethical non-monogamy, and social justice.
 -  How can critical thinking and reasoning be applied to the study of the Bible and Christian theology, and how can they help to address biases and prejudices in religious discourse?
 - How can individuals and communities reconcile their Christian faith with their own sexual desires, fantasies, and interests, and how can this be reconciled with Christian teachings on love, respect, and dignity?
 - How can individuals and communities address the potential tension between Christian teachings on sex and sexuality and the practices and values of ethical non-monogamy, sex positivity, and kink?
@@ -35,7 +35,7 @@ This includes questions related to navigating the intersection of Christian beli
 - How can Christian communities effectively address issues of social justice and inequality, such as racial injustice or poverty, while staying true to their theological beliefs?
 
 ## Communication
-'This includes questions related to effective communication and clear expression of ideas.
+This includes questions related to effective communication and clear expression of ideas.
 - How can we cultivate more meaningful and authentic connections in our personal and professional lives?
 - What methods can be used to differentiate crucial information from seemingly important but irrelevant information?
 - What are the most effective strategies for communicating complex information to a diverse audience? What are the key elements of effective writing in online communication? What are the best practices for designing and presenting visual aids to ensure that they are clear, informative, and engaging for a diverse online audience?
