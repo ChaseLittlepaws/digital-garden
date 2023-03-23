@@ -6,6 +6,7 @@ slug: site-map
 Welcome to my [[Digital Gardens|digital garden]] blog! Here you'll find every note in my digital garden in categories. Feel free to roam as you wish.
 
 ## Meta
+[[Meta - Research Questions|Research Questions]]
 [[Meta - Thinkers|Thinkers]]  
 [[Meta - Paradigms|Paradigms]]  
 [[Meta - Ideas|Ideas]]
