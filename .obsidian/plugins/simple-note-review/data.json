@@ -1,16 +1,35 @@
 {
   "reviewedFieldName": "reviewed",
   "reviewFrequencyFieldName": "review-frequency",
-  "noteSets": [],
+  "noteSets": [
+    {
+      "id": 1,
+      "displayName": "\"Notes\"",
+      "description": "matches notes that:  are matched with dataviewJS query \"Notes\"; ",
+      "stats": {
+        "totalCount": 83,
+        "notRewiewedCount": 65,
+        "reviewedLastSevenDaysCount": 0,
+        "reviewedLastThirtyDaysCount": 0
+      },
+      "folders": [],
+      "dataviewQuery": "\"Notes\""
+    }
+  ],
   "currentNoteSet": {
     "id": 1,
-    "displayName": "_notes",
-    "description": "matches notes that:  are inside any of these folders (including nested folders): _notes",
-    "folders": [
-      "_notes"
-    ]
+    "displayName": "\"Notes\"",
+    "description": "matches notes that:  are matched with dataviewJS query \"Notes\"; ",
+    "stats": {
+      "totalCount": 83,
+      "notRewiewedCount": 65,
+      "reviewedLastSevenDaysCount": 0,
+      "reviewedLastThirtyDaysCount": 0
+    },
+    "folders": [],
+    "dataviewQuery": "\"Notes\""
   },
   "openNextNoteAfterReviewing": true,
   "openRandomNote": false,
-  "useReviewFrequency": false
+  "useReviewFrequency": true
 }

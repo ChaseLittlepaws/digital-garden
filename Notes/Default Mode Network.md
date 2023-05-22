@@ -9,7 +9,9 @@ tags:
 review-frequency: low
 category: Cognition
 date: 2023-03-16
-date modified: 2023-03-17
+date modified: 2023-05-22
+title: Default Mode Network
+date created: 2023-03-17
 ---
 
 - Parts of the brain that ‘activate’ when people stop concentrating on a specific, external task
@@ -23,9 +25,11 @@ date modified: 2023-03-17
 - [[Dan Koe]] suggests a three part daily routine[^1] in which you fill you mind with information, empty it with things that activatve the default mode like exercise or [[Mindfulness|mindfulness]] practices, and then create using your mind to put everything to use.
 
 ## To Be Reviewed
+
 Kahneman, Daniel. _Thinking, Fast and Slow_. Farrar, Straus and Giroux, 2011.
 
 Oakley, Barbara A. _A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)_. Penguin Publishing Group, 2014.
 
 [^2]: Newport, Cal. _Digital Minimalism: Choosing a Focused Life in a Noisy World_. Penguin Books Limited, 2019.
+
 [^1]: “The 3-Part Daily Routine For Maximum Productivity.” _Dan Koe_, 23 July 2022, [https://thedankoe.com/the-3-part-daily-routine-for-maximum-productivity/](https://thedankoe.com/the-3-part-daily-routine-for-maximum-productivity/).

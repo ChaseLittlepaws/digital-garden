@@ -13,9 +13,11 @@
   "obsidian-quiet-outline",
   "obsidian-reading-time",
   "settings-search",
-  "simple-note-review",
   "obsidian-style-settings",
   "tag-wrangler",
   "waypoint",
-  "obsidian-wikipedia"
+  "obsidian-wikipedia",
+  "folder-note-plugin",
+  "dataview",
+  "simple-note-review"
 ]
