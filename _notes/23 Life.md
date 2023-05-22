@@ -3,7 +3,7 @@ date: 2023-03-18
 date modified: 2023-03-23
 slug: site-map
 ---
-Welcome to my [[Digital Gardens|digital garden]] blog! Here you'll find every note in my digital garden in categories. Feel free to roam as you wish.
+Welcome to my [[Digital Gardens|digital garden]] blog! Here you'll find every note in my digital garden in categories. Feel free to roam as you wish!
 
 ## Meta
 [[Meta - Research Questions|Research Questions]]  
