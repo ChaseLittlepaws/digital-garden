@@ -1,0 +1,16 @@
+{
+  "reviewedFieldName": "reviewed",
+  "reviewFrequencyFieldName": "review-frequency",
+  "noteSets": [],
+  "currentNoteSet": {
+    "id": 1,
+    "displayName": "_notes",
+    "description": "matches notes that:  are inside any of these folders (including nested folders): _notes",
+    "folders": [
+      "_notes"
+    ]
+  },
+  "openNextNoteAfterReviewing": true,
+  "openRandomNote": false,
+  "useReviewFrequency": false
+}

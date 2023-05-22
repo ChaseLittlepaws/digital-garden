@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "0bfaed12a37d9a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c697236f0360ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eb84a19b072df6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "763caab6d954ebb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "41a41747f1bd5794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa1afc8dd36bc26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cad4dc513b84b2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "deb61eb0295086b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8444cf74b6dd32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77992ef4b31f88da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45f8e9bd3d7b23dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d2d85a2e9777eef",
+            "type": "leaf",
+            "state": {
+              "type": "simple-note-review-sidebar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d211ee4395006c84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "simple-note-review:Simple Note Review: Open Sidebar View": false,
+      "simple-note-review:Simple Note Review: Start Reviewing": false
+    }
+  },
+  "active": "2eb84a19b072df6a",
+  "lastOpenFiles": [
+    "Notes/Abraham Maslow.md",
+    "Notes/Notes.md",
+    "README.md",
+    "Notes/Personal Knowledge Management.md",
+    "Notes/No Writing Starts from Scratch..md",
+    "Notes/Building a Second Brain.md",
+    "Notes/Bloom's Taxonomy.md",
+    "Notes/Maslow's Hierarchy of Needs.md",
+    "Notes/Beth Pickens.md",
+    "Notes/Oren Jay Sofer.md",
+    "CONTRIBUTING.md"
+  ]
+}

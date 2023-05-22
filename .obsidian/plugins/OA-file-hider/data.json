@@ -1,0 +1,11 @@
+{
+  "hidden": false,
+  "hiddenList": [
+    "node_modules",
+    "plugins",
+    "public",
+    "CONTRIBUTING.md",
+    "static",
+    "src"
+  ]
+}
