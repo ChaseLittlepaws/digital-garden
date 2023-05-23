@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dan Allosso.md",
+                "file": "Notes/Adrienne Maree Brown.md",
                 "mode": "preview",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "deb61eb0295086b3",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Dan Allosso.md",
+                "file": "Notes/Adrienne Maree Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Dan Allosso.md",
+                "file": "Notes/Adrienne Maree Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +112,7 @@
             }
           },
           {
-            "id": "b028407cdd9a269d",
+            "id": "8a51fce49fadcb16",
             "type": "leaf",
             "state": {
               "type": "simple-note-review-sidebar-view",
@@ -137,6 +136,21 @@
   },
   "active": "bb2cd02ce9f7d5dc",
   "lastOpenFiles": [
+    "Notes/Abraham Maslow.md",
+    "Notes/Johann Hari.md",
+    "Notes/Cal Newport.md",
+    "Notes/Meta - Ideas.md",
+    "Notes/Charlie Gilkey.md",
+    "Notes/Meta - Thinkers.md",
+    "Notes/Tiago Forte.md",
+    "Notes/Emotions Tell Us Information..md",
+    "Notes/Emotions Communicate with and Influence Others..md",
+    "Notes/Intentional Communities.md",
+    "Notes/Writing Is Thinking..md",
+    "Notes/Jessica Fern.md",
+    "Notes/Mark Manson.md",
+    "Notes/Ethical Nonmonogamy.md",
+    "Notes/Dan Allosso.md",
     "Notes/Sweat Equity.md",
     "Notes/Mihály Csíkszentmihályi.md",
     "Notes/Marshall Rosenberg.md",
@@ -144,24 +158,9 @@
     "Notes/Restorative Justice.md",
     "Notes/Mindfulness.md",
     "Notes/Business Model You.md",
-    "Notes/Cal Newport.md",
     "Notes/Notes.md",
     "Notes/Personal Knowledge Management.md",
     "Notes/Dossie Easton & Janet Hardy.md",
-    "Notes/Staci Haines.md",
-    "Notes/The Deep Life.md",
-    "Notes/Emotions Organize and Motivate Action..md",
-    "Notes/Dan Koe.md",
-    "Notes/Emotions Tell Us Information..md",
-    "Notes/Beth Pickens.md",
-    "node_modules/json-loader/CHANGELOG.md",
-    "node_modules/ordered-binary/README.md",
-    "node_modules/has-tostringtag/CHANGELOG.md",
-    "node_modules/chownr/README.md",
-    "node_modules/@babel/plugin-proposal-numeric-separator/README.md",
-    "node_modules/type-is/HISTORY.md",
-    "node_modules/eslint-plugin-import/node_modules/debug/CHANGELOG.md",
-    "node_modules/raw-body/README.md",
-    "Notes/Charlie Gilkey.md"
+    "Notes/Staci Haines.md"
   ]
 }
