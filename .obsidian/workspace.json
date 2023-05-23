@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes.md",
-                "mode": "source",
+                "file": "Notes/Dan Allosso.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes.md",
+                "file": "Notes/Dan Allosso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Notes.md",
+                "file": "Notes/Dan Allosso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             }
           },
           {
-            "id": "0e7a2ecc212098de",
+            "id": "b028407cdd9a269d",
             "type": "leaf",
             "state": {
               "type": "simple-note-review-sidebar-view",
@@ -137,6 +137,15 @@
   },
   "active": "bb2cd02ce9f7d5dc",
   "lastOpenFiles": [
+    "Notes/Sweat Equity.md",
+    "Notes/Mihály Csíkszentmihályi.md",
+    "Notes/Marshall Rosenberg.md",
+    "Notes/Karen Pryor.md",
+    "Notes/Restorative Justice.md",
+    "Notes/Mindfulness.md",
+    "Notes/Business Model You.md",
+    "Notes/Cal Newport.md",
+    "Notes/Notes.md",
     "Notes/Personal Knowledge Management.md",
     "Notes/Dossie Easton & Janet Hardy.md",
     "Notes/Staci Haines.md",
@@ -145,7 +154,6 @@
     "Notes/Dan Koe.md",
     "Notes/Emotions Tell Us Information..md",
     "Notes/Beth Pickens.md",
-    "Notes/Notes.md",
     "node_modules/json-loader/CHANGELOG.md",
     "node_modules/ordered-binary/README.md",
     "node_modules/has-tostringtag/CHANGELOG.md",
@@ -154,14 +162,6 @@
     "node_modules/type-is/HISTORY.md",
     "node_modules/eslint-plugin-import/node_modules/debug/CHANGELOG.md",
     "node_modules/raw-body/README.md",
-    "Notes/Charlie Gilkey.md",
-    "Notes/Cal Newport.md",
-    "Notes/Business Model You.md",
-    "Notes/Building a Second Brain.md",
-    "Notes/Burning the Ships.md",
-    "Notes/Bloom's Taxonomy.md",
-    "Notes/Agile Project Management.md",
-    "Notes/Adrienne Maree Brown.md",
-    "Notes/Abraham Maslow.md"
+    "Notes/Charlie Gilkey.md"
   ]
 }
